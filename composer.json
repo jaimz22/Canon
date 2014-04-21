@@ -4,12 +4,12 @@
     "license": "proprietary",
     "authors": [
         {
-            "name": "JAmes Murray",
+            "name": "James Murray",
             "email": "jaimz@vertigolabs.org"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "doctrine/orm": "2.4.0"
+        "doctrine/orm": "2.4.*@dev"
     }
 }
