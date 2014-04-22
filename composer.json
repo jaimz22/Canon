@@ -1,7 +1,7 @@
 {
     "name": "vertigolabs/canon",
     "description": "A group of traits to ease common doctrine tasks",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "James Murray",
@@ -10,7 +10,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "doctrine/orm": "2.4.*@dev",
-        "symfony/yaml": "2.5.*@dev"
+        "php": ">=5.5.0"
     }
 }
